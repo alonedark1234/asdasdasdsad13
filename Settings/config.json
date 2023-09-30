@@ -1,0 +1,28 @@
+{
+    "BotToken":"",
+    "OwnerID":"902943204540841984",
+    "prefix": ["/",".","!"],
+
+    "BotVoiceChannel":"1148623378563993651",
+    "Activity": [
+    "#yetkili-başvuru/ .başvuru"
+    ],
+    "Footer":"Yetkili Alım",
+    "Color":"Black",
+
+    "green":"<a:Onay:1149843351345037342>",
+    "red":"<a:Iptal:1149843551174279278>",
+    "star":"<:darkzone_isaretle:1149843989944606830>",
+    "çizgi":"<:dark_nokta:1149844711549448314>",
+
+    "EnAltYetkiliRoleID":"1149846730041471107",
+    "TagRoleID":"1148614957278179338",
+    "YetkiliAlımRoleID": "1148615999264923688",
+    "VerilecekYetkiliRolleriID": ["1149846730041471107","1148654696526008440","1148657230749642822"],
+    "EveryoneRoleID":"1148614957278179338",
+
+    "BaşvuruKategoryID":"1148616016855826553",
+    "BasvuruKomutKullanımKanalı":"1148616178776936530",
+    "BaşvuruDurumLog": "1149847854739886110",
+    "BaşvuruLogChannelID":"1149847823026765927"
+}
